@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" group="android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-177942915/cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/-177942915/cloud_firestore.iml" group="android/cloud_firestore" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/718671687/firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/718671687/firebase_auth.iml" group="android/firebase_auth" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1186453745/firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-1186453745/firebase_core.iml" group="android/firebase_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-417089261/firebase_messaging.iml" filepath="$PROJECT_DIR$/.idea/modules/-417089261/firebase_messaging.iml" group="android/firebase_messaging" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1621993931/firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1621993931/firebase_storage.iml" group="android/firebase_storage" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/915496456/geolocator.iml" filepath="$PROJECT_DIR$/.idea/modules/915496456/geolocator.iml" group="android/geolocator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-591665702/google_api_availability.iml" filepath="$PROJECT_DIR$/.idea/modules/-591665702/google_api_availability.iml" group="android/google_api_availability" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-782955196/google_sign_in.iml" filepath="$PROJECT_DIR$/.idea/modules/-782955196/google_sign_in.iml" group="android/google_sign_in" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/163235221/image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/163235221/image_picker.iml" group="android/image_picker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1941702683/location_permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/1941702683/location_permissions.iml" group="android/location_permissions" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-795993433/path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/-795993433/path_provider.iml" group="android/path_provider" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2036276242/sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-2036276242/sqflite.iml" group="android/sqflite" />
+    </modules>
+  </component>
+</project>
