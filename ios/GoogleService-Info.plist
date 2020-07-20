@@ -3,23 +3,21 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>807980825102-5co6ptfc10lf768mqbf30qalt0k2j5hr.apps.googleusercontent.com</string>
+	<string>191315701483-kucmo2j3i6crs8a0b01r46akur6ng232.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.807980825102-5co6ptfc10lf768mqbf30qalt0k2j5hr</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>807980825102-lqlqi803fpir4it6ptuevho3n3s19ccd.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.191315701483-kucmo2j3i6crs8a0b01r46akur6ng232</string>
 	<key>API_KEY</key>
-	<string>AIzaSyAY9JPwEZKGUMhl5O30pvh_2U7bg3EhaAc</string>
+	<string>AIzaSyBkJkasAlViTfBDE2Hpl-WDRgduBKmJizU</string>
 	<key>GCM_SENDER_ID</key>
-	<string>807980825102</string>
+	<string>191315701483</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.bertinnono.fluttershare</string>
+	<string>com.inwaters.inwaters</string>
 	<key>PROJECT_ID</key>
-	<string>fluttershare-8d363</string>
+	<string>inwaters-e8bc5</string>
 	<key>STORAGE_BUCKET</key>
-	<string>fluttershare-8d363.appspot.com</string>
+	<string>inwaters-e8bc5.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -31,8 +29,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:807980825102:ios:3927a45b73fbd7ccdcda5f</string>
+	<string>1:191315701483:ios:0716d57889f2e73a2ad8ae</string>
 	<key>DATABASE_URL</key>
-	<string>https://fluttershare-8d363.firebaseio.com</string>
+	<string>https://inwaters-e8bc5.firebaseio.com</string>
 </dict>
 </plist>

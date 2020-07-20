@@ -1,11 +1,11 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttershare/pages/home.dart';
-import 'package:fluttershare/pages/post_screen.dart';
-import 'package:fluttershare/pages/profile.dart';
-import 'package:fluttershare/widgets/header.dart';
-import 'package:fluttershare/widgets/progress.dart';
+import 'package:inwaters/pages/home.dart';
+import 'package:inwaters/pages/post_screen.dart';
+import 'package:inwaters/pages/profile.dart';
+import 'package:inwaters/widgets/header.dart';
+import 'package:inwaters/widgets/progress.dart';
 import 'package:timeago/timeago.dart' as timeago;
 
 class ActivityFeed extends StatefulWidget {

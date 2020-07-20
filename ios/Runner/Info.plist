@@ -11,7 +11,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>fluttershare</string>
+	<string>inwaters</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -25,7 +25,7 @@
 			<string>Editor</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
-				<string>com.googleusercontent.apps.807980825102-5co6ptfc10lf768mqbf30qalt0k2j5hr</string>
+				<string>com.googleusercontent.apps.191315701483-kucmo2j3i6crs8a0b01r46akur6ng232</string>
 			</array>
 		</dict>
 	</array>

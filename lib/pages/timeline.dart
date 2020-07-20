@@ -1,11 +1,11 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttershare/models/user.dart';
-import 'package:fluttershare/pages/home.dart';
-import 'package:fluttershare/pages/search.dart';
-import 'package:fluttershare/widgets/header.dart';
-import 'package:fluttershare/widgets/post.dart';
-import 'package:fluttershare/widgets/progress.dart';
+import 'package:inwaters/models/user.dart';
+import 'package:inwaters/pages/home.dart';
+import 'package:inwaters/pages/search.dart';
+import 'package:inwaters/widgets/header.dart';
+import 'package:inwaters/widgets/post.dart';
+import 'package:inwaters/widgets/progress.dart';
 
 final usersRef = Firestore.instance.collection('users');
 

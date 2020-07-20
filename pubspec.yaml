@@ -1,4 +1,4 @@
-name: fluttershare
+name: inwaters
 description: A new Flutter project.
 
 # The following defines the version and build number for your application.
@@ -33,7 +33,7 @@ dependencies:
   firebase_messaging: ^4.0.0+1
   timeago: 2.0.17
   cached_network_image: 
-  flutter_svg: 
+  flutter_svg:
 
 dev_dependencies:
   flutter_test:

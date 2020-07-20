@@ -4,13 +4,13 @@ import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:firebase_storage/firebase_storage.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:fluttershare/models/user.dart';
-import 'package:fluttershare/pages/activity_feed.dart';
-import 'package:fluttershare/pages/create_account.dart';
-import 'package:fluttershare/pages/profile.dart';
-import 'package:fluttershare/pages/search.dart';
-import 'package:fluttershare/pages/timeline.dart';
-import 'package:fluttershare/pages/upload.dart';
+import 'package:inwaters/models/user.dart';
+import 'package:inwaters/pages/activity_feed.dart';
+import 'package:inwaters/pages/create_account.dart';
+import 'package:inwaters/pages/profile.dart';
+import 'package:inwaters/pages/search.dart';
+import 'package:inwaters/pages/timeline.dart';
+import 'package:inwaters/pages/upload.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 
 final GoogleSignIn googleSignIn = GoogleSignIn();
@@ -227,7 +227,7 @@ class _HomeState extends State<Home> {
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
             Text(
-              'FlutterShare',
+              'inwaters',
               style: TextStyle(
                 fontFamily: "Signatra",
                 fontSize: 90.0,

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:fluttershare/pages/home.dart';
-import 'package:fluttershare/widgets/header.dart';
-import 'package:fluttershare/widgets/post.dart';
-import 'package:fluttershare/widgets/progress.dart';
+import 'package:inwaters/pages/home.dart';
+import 'package:inwaters/widgets/header.dart';
+import 'package:inwaters/widgets/post.dart';
+import 'package:inwaters/widgets/progress.dart';
 
 class PostScreen extends StatelessWidget {
   final String userId;
